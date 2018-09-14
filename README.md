@@ -1,2 +1,2 @@
-# exploration1
+# Exploration1
 Use the Materialize CSS to create the website
